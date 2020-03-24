@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonitoringAndFeedback4</string>
+    <string name="submit">submit</string>
+    <string name="enter_your_number_here">Enter your number here</string>
+</resources>
